@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">App Install History</string>
+    <string name="sort_by_name">Sort by name</string>
+    <string name="sort_by_last_update">Sort by last update</string>
+    <string name="search">Search</string>
+    <string name="unable_open_details">Unable to open details for this app</string>
 </resources>
